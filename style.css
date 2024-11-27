@@ -1,0 +1,23 @@
+*{
+    font-family: "Parkisans",Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: red;
+}
+#app{
+
+    color: aqua;
+}
+.boton-cv{
+    background-color: blueviolet;
+    color: antiquewhite;
+}
+.habilidades{
+    background-color: red;
+}
+.caja-habilidades{
+    background-color: red;
+}
+.btn-proyecto{
+    background-color: blueviolet;
+}
