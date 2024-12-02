@@ -1,0 +1,72 @@
+*{
+    font-family:"Orbitron", sans-serif;
+}
+/* si quiero que cada seccion tenga un tipo de letra le agrego un font-family */
+h2{
+    font-family:"Orbitron", sans-serif;
+    color:#260c50;
+}
+p{
+    font-family: "Rubik", sans-serif;
+}
+/* colores 1-#6f4aba  2-#be57be 3-#a8a1ff 4- #78d7d7 5-#6778ab*/
+header{
+    background-color:#c3b1e7;
+    font-family: "Orbitron", sans-serif;
+}
+.nav-item a{
+    color:#6f4aba;
+    font-family: "Orbitron", sans-serif;
+}
+#boton-perfil{
+    background-color:#6f4aba;
+}
+.nav-item a:hover{
+    color:#6778ab;
+    
+
+}
+#app{
+    color:#a8a1ff;
+}
+.boton-cv{
+    background-color: #6f4aba;
+    color: white;
+}
+.caja-habilidades{
+    background-color:#a8a1ff;
+}
+
+.btn-proyecto{
+    background-color: #6f4aba;
+}
+.btn-proyecto a{
+    text-decoration: none;
+    color:white;
+}
+/* colores 1-#6f4aba  2-#be57be 3-#a8a1ff 4- #78d7d7 5-#6778ab*/
+.card-body .card-title{
+    color:#6f4aba;
+}
+.card-body .card-subtitle{
+    color:#b635b6;
+}
+#contacto{
+    background-color:#6778ab;
+    color:#260c50;
+}
+#contactame{
+    background-color: #39285c;
+    color:white;
+}
+footer{
+    color:#39285c;
+}
+footer p{
+    color:#421f7a;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+footer p a{
+    text-decoration:none;
+    color:#a8a1ff;
+}
