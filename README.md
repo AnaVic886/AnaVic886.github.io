@@ -1,7 +1,7 @@
 <!-- ## para titulos -->
 ## Portafolio de proyectos
 <!-- para negritas -->
-¡Hola! soy **Ana Victoria Gómez** Tecnologa en Alimentos y especialista en microocomputadoras, actualmente enfocada en la tecnologia, estudiante de desarrollo fronted en Tecnolochicas PRO para adquirir mas conocimientos y habilidades en desarrollo web.
+¡Hola! soy **Ana Victoria** Tecnologa en Alimentos y Cientifica de Datos , actualmente enfocada en la tecnologia, estudiante de desarrollo fronted en Tecnolochicas PRO para adquirir mas conocimientos y habilidades en desarrollo web.
 ______
 ### El proyecto cuenta con las secciones de:
 
